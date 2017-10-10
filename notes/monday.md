@@ -1,9 +1,4 @@
-Make a change
-Make another change
-Do something else
-tra la la
+#TIL
+How to draw an ellipse
+How to draw a rectangle
 
-here's another change
-
-more notes for a monday night!!!!
-monday night
